@@ -9,4 +9,4 @@ tar xvjf file.tar.bz2
 ```
 Update the path of NYPD2.csv in nypd.sql file.
 
-Create a database named Project or update the project name in the code. Than create a table named ACCIDENT_DATA.
+Create a database named Project or update the project name in the code. Than create a table named ACCIDENT_DATA and populate the data with the csv data using the following command.
