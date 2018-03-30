@@ -7,3 +7,4 @@ First untar the file using the command
 ```bash
 tar xvjf file.tar.bz2
 ```
+Update the path of NYPD2.csv in nypd.sql file.
