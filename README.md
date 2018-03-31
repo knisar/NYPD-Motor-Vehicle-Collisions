@@ -18,3 +18,5 @@ Create a database named Project or update the project name in the code. Than cre
 ```bash
 mysqlimport --local --fields-terminated-by=, --fields-enclosed-by='\"' --ignore-lines=1 –u <username> -p <dbname> <filename>
 ```
+
+Once the database is setup you can run the code Notebook.
